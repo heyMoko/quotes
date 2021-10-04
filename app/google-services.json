@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507425154680",
+    "project_id": "today-s-saying",
+    "storage_bucket": "today-s-saying.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507425154680:android:28b1ed78e40d99e84d6f8d",
+        "android_client_info": {
+          "package_name": "com.example.todays_saying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507425154680-eipbq36mgjpnhe68o7kj55dng50dums2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_FFyxfJ7aR9BVG7t_I5cdG3AG7MGM49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507425154680-eipbq36mgjpnhe68o7kj55dng50dums2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
